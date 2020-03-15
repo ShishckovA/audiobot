@@ -1,0 +1,3 @@
+wget
+vk_api
+pydub
